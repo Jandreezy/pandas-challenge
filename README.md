@@ -23,3 +23,4 @@ I've been given data from a school district and my task is to help the board mak
 #### Type
 ![Type](https://user-images.githubusercontent.com/97491577/151698863-8a7cbbc6-0f7d-454e-a7c4-6cd110ee3013.png)
 ## Analysis
+According to the data provided, schools that spend less than $615 per student have better overall testing and passing rates than schools that spend more than $615. The schools that spend less than $615 are ones that have <2000 students. Schools with <2000 students also have a higher overall testing and passing rates than the larger schools. This data shows that charter schools have a higher percentage of passing compared to the district schools. In all 15 schools, the average reading score is lower than the average math score with the top 5 schools having the passing math score being around 20% lower than the passing reading score.
