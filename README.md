@@ -1,7 +1,7 @@
 # PyCity School Challenge
-
-## Report
-
+## Overview
+I've been given data from a school district and my task is to help the board make decisions regarding future budgets and priorites. This data includes a summary of the different school's as well as their student's test scores, spending, size, as well as their type. I've compiled a series of data frames and filtered them accordingly in order to provide the most accurate data.
+## Results
 ### By District 
 ![image](https://github.com/Jandreezy/pandas-challenge/blob/main/Images/District.png?raw=true)
 ### By School
@@ -22,3 +22,4 @@
 ![Size](https://user-images.githubusercontent.com/97491577/151698856-ed9148c4-50e6-4823-8567-e342b009a919.png)
 #### Type
 ![Type](https://user-images.githubusercontent.com/97491577/151698863-8a7cbbc6-0f7d-454e-a7c4-6cd110ee3013.png)
+## Analysis
