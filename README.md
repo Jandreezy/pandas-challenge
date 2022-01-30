@@ -1,1 +1,1 @@
-# pandas-challenge
+# PyCity School Challenge
